@@ -10,4 +10,5 @@ run_tests.sh
 [Add Two Sum Numbers](/add_two_sum_numbers/README.md)  
 [Longest Substring Without Repeating Characters](/longest_substring_without_repeating_characters/README.md)  
 [Median of Two Sorted Arrays](/median_of_two_sorted_arrays/README.md)  
-[ZigZag Conversion](/zigzag_conversion/README.md)
+[ZigZag Conversion](/zigzag_conversion/README.md)  
+[Minimum Path Sum](/minimum_path_sum/README.md)
