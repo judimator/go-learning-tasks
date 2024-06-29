@@ -19,4 +19,5 @@
 [17.Letter Combinations of a Phone Number](/0017_letter_combinations_of_a_phone_number/README.md)  
 [18.4Sum](/0018_4sum/README.md)  
 [19.Remove Nth Node From End Of List](/0019_remove_nth_node_from_end_of_list/README.md)  
+[20.Valid Parentheses](/0020_valid_parentheses/README.md)  
 [Minimum Path Sum](/minimum_path_sum/README.md)  
