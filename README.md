@@ -5,7 +5,7 @@
 [3.Longest Substring Without Repeating Characters](/0003_longest_substring_without_repeating_characters/README.md)  
 [4.Median of Two Sorted Arrays](/0004_median_of_two_sorted_arrays/README.md)  
 [5.Longest Palindromic Substring](/0005_longest_palindromic_substring/README.md)  
-[6.ZigZag Conversion](/0006_zigzag_conversion/REA9_palindrome_numberDME.md)  
+[6.ZigZag Conversion](/0006_zigzag_conversion/README.md)  
 [7.Reverse Integer](/0007_reverse_integer/README.md)  
 [8.String to Integer (atoi)](/0008_string_to_integer_atoi/README.md)  
 [9.Palindrome Number](/0009_palindrome_number/README.md)  
